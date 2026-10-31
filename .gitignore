@@ -1,0 +1,36 @@
+
+# Visual Studio
+.vs/
+*.dtproj.user
+*.suo
+
+# SSIS build files
+**/bin/
+**/obj/
+*.ispac
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# Credentials and local configuration
+*.pem
+*.key
+secrets.*
+credentials.*
+
+# Temporary and log files
+*.log
+*.tmp
+*.bak
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Old SSIS package copies
+**/* - Copy.dtsx
