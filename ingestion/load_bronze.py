@@ -4,7 +4,7 @@ import pyodbc
 from datetime import datetime
 
 
-SERVER = "DESKTOP-43RGRTL"
+SERVER = "xxxxx"
 DATABASE = "ProductDataPlatform_V3"
 BRONZE_FOLDER = "."
 
