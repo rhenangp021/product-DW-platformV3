@@ -1,6 +1,6 @@
 import pyodbc
 
-SERVER = "DESKTOP-43RGRTL"
+SERVER = "xxxxx"
 DATABASE = "ProductDataPlatform_V3"
 
 connection_string = (
